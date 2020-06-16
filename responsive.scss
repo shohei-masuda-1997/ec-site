@@ -1,0 +1,51 @@
+@media(max-width:991px){
+  .menu-item{
+    width:45%;
+  }
+}
+
+@media(max-width:768px){
+  .menu-item{
+    width: 90%;
+  }
+
+  .submit{
+    .btn{
+      width: 90%;
+    }
+  }
+
+  .back{
+    width: 95%;
+    margin: auto;
+    .btn{
+      width:100%;
+      margin: auto;
+    }
+  }
+
+  .confirm{
+    width: 95%;
+  }
+}
+
+@media(max-width:414px){
+  .review-show{
+      img{
+        width:95%;
+      }
+
+  }
+
+  .review-txt{
+    ul{
+      font-size: 13px;
+    }
+  }
+
+
+
+
+
+
+}
